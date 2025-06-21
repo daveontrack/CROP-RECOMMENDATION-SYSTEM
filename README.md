@@ -1,8 +1,4 @@
-To make your **Crop Recommendation System** README more **interactive**, engaging, and user-friendly, consider incorporating the following enhancements:
-
 ---
-
-
 ````markdown
 # 🌾 Crop Recommendation System Using Machine Learning
 
