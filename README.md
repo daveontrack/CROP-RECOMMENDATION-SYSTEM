@@ -1,4 +1,3 @@
----
 # 🌾 Crop Recommendation System Using Machine Learning
 
 > "Empowering agriculture with intelligent crop recommendations!"
