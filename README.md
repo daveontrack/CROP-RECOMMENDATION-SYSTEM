@@ -6,15 +6,15 @@ To make your **Crop Recommendation System** README more **interactive**, engagin
 ````markdown
 # 🌾 Crop Recommendation System Using Machine Learning
 
-> **"Empowering agriculture with intelligent crop recommendations!"**
+> "Empowering agriculture with intelligent crop recommendations!"
 
 ---
 
 ## 📝 Description
 
-The **Crop Recommendation System** is a machine learning-powered tool that helps farmers and agricultural experts choose the best crops to grow based on **soil, climate, and environmental conditions**.
+The Crop Recommendation System is a machine learning-powered tool that helps farmers and agricultural experts choose the best crops to grow based on soil, climate, and environmental conditions.
 
-Whether you're a farmer, researcher, or policymaker, this tool provides **data-driven** crop suggestions to maximize **yield and profit**.
+Whether you're a farmer, researcher, or policymaker, this tool provides data-driven crop suggestions to maximize yield and profit.
 
 ---
 
@@ -103,23 +103,6 @@ Special thanks to:
 🌐 [Personal Portfolio](https://daveontrack.netlify.app/)
 🐙 [GitHub](https://github.com/daveontrack)
 📘 [LinkedIn]((https://www.linkedin.com/in/dawit-beriso/)) *(optional)*
-
 ---
-
-## 📌 License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for more details.
-
-```
-
----
-
-### ✅ Tips to Boost Interactivity:
-
-- **Add GIFs** or **screenshots** of the app in use.
-- Include **code snippets** for sample predictions.
-- Use **badges** (GitHub stars, forks, Python version, etc.).
-- Embed **video walkthroughs** or **live demo links**.
-- Consider adding a **FAQ section** (e.g., what to do if prediction fails).
 
 ```
