@@ -8,7 +8,7 @@
 
 The Crop Recommendation System is a machine learning-powered tool that helps farmers and agricultural experts choose the best crops to grow based on soil, climate, and environmental conditions.
 
-Whether you're a farmer, researcher, or policymaker, this tool provides data-driven crop suggestions to maximize yield and profit.
+this tool provides data-driven crop suggestions to maximize yield and profit.
 
 ---
 
@@ -62,7 +62,6 @@ python app.py
 * 📡 Integrate **live weather data** via APIs (e.g., OpenWeatherMap).
 * 📈 Include **market price analysis** for more profitable recommendations.
 * 📱 Build a **mobile-friendly version** (React Native / Flutter).
-* 🧑‍🌾 Add **multi-language support** for broader accessibility.
 * 🧠 Use **deep learning** or **AutoML** for improved accuracy.
 
 ---
